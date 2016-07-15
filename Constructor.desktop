@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Constructor2
+Comment=Make changes to an ISO or a liveCD
+Exec=constructor
+Icon=/usr/lib/Constructor/icon.svg
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Application;System;Settings;
+StartupNotify=false

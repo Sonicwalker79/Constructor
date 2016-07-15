@@ -1,0 +1,1 @@
+?package(constructor): needs="x11" hints="LiveCD Remastering Tool" section="Applications/System/Administration" title="Constructor" command="/usr/bin/constructor" icon=usr/lib/Constructor/icon.png

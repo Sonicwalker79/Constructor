@@ -1,0 +1,12 @@
+Source: constructor
+Section: admin
+Priority: optional
+Maintainer: Sonicwalker <sonicwalker@gmx.de>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: constructor
+Architecture: all
+Depends: python (>= 2.4), python (<< 3), python-gtk2, python-glade2, squashfs-tools, coreutils, genisoimage, rsync, xterm, lzma, gzip, uuid-runtime, xorriso
+Description: Constructor for Mint and Ubuntu
+ Used by the dev team to automate all the tedious repetitive work (mksquashfs, mkisofs, chroot, etc..) while making a Mint or Ubuntu ISO. 
